@@ -134,3 +134,5 @@ STORAGES = {
     },
 }
 ALLOWED_HOSTS = ['localhost','web-production-27a45.up.railway.app', '127.0.0.1'] # LA DIRECCION DE NUESTRA APP
+
+CSRF_TRUSTED_ORIGINS= ['http://*','https://web-production-27a45.up.railway.app/']
