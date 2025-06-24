@@ -1,0 +1,1 @@
+web: gunicorn proyectohola.wsgi
