@@ -126,4 +126,4 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-ALLOWED_HOSTS = ['localhost','https://web-production-27a45.up.railway.app/'] # LA DIRECCION DE NUESTRA APP
+ALLOWED_HOSTS = ['localhost','web-production-27a45.up.railway.app'] # LA DIRECCION DE NUESTRA APP
